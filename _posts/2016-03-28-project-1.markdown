@@ -1,0 +1,16 @@
+---
+title: LoveLive!！僕たちはひとつの光
+subtitle: V-Project LL 同人創作合作案
+layout: default
+modal-id: 1
+date: 2016-03-28
+client-link: https://www.facebook.com/vproject.page
+img: vproject.jpg
+thumbnail: vproject.jpg
+alt: love live
+project-date: March 28
+client: V-Project
+category: 
+description: 由阿狗、Mr.Sugar邀約V-Project合作<br/>VRMoment贊助器材與場地
+
+---
